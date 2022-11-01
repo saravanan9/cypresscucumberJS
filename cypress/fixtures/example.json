@@ -1,0 +1,32 @@
+{
+  
+  "invalidmail": "abc@def.com" ,
+  "invalidpassword" : "Second",
+  "validmail" : "saravanan.thilagar@qualitestgroup.com",
+  "validpassword" : "Saravanan@10",
+  "surname" : "Thilagar",
+  "firstname" : "saravanan",
+  "phonenum" : "9345798853",
+  "Adress" : "No.7,Southstreet",
+  "City" : "Ramanathapuram",
+  "Country" : "India",
+  "Postcode" : "623501",
+  "incidents": "Accident",
+  "registration": "tn65 S0099",
+  "AnnualMileage": "45",
+  "estimatedvalue": "1000",
+  "identificationnumber": "17945",
+  "parkinglocation" : "Public place",
+  "policydate" : "2014.2.7"
+
+
+
+
+
+  
+
+
+
+
+
+}
