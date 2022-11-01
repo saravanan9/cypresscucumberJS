@@ -1,0 +1,23 @@
+{
+  "env": {
+    "clientName": "Test Website",
+    "url": "https://demo.guru99.com/insurance/v1/header.php",
+    "RETRIES": 0
+  },
+  "pageLoadTimeout":75000,
+  "defaultCommandTimeout":30000,
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/reports/mocha",
+    "reportFilename": "index",
+    "overwrite": false,
+    "html": true,
+    "json": true,
+    "charts": true
+  },
+  "retries": {
+    "runMode": 0,
+    "openMode": 0
+  },
+  "testFiles": "**/*.feature"
+}
